@@ -1,0 +1,30 @@
+- JS Tarihçe,
+        ECMASCRİP1 - temel - 95 variable sayi = 1
+        ES2 - ndndnsad - 96 - var sayi = 1
+        ES3 -ab
+        ES4 
+        2014 ES5 - var variable - değişken
+        2015 ES6 - const , let
+        2016 ES7 - json
+
+- V8 engine, monkey, spider
+
+- Dev tools 
+
+- Veri tipleri(data types) & yorum satırı  
+    * number,string,boolean,null,undefined ..
+
+- değişken tanımlama * var, * global ve scope değişken
+
+- matematiksel operatorler * + - * / %
+
+- array *push, index 
+
+- obje oluşturma * objelere ulaşma
+
+- koşullar, döngüler, fonksiyonlar
+
+- ECMAScript6 yeni gelen özellikler
+- window(pencere) objesine genel bakış
+- DOM (document object model) nedir?
+- DOM manipülasyonu nedir?
